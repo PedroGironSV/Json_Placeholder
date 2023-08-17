@@ -18,7 +18,7 @@ API testing for the main HTTP requetests: GET, POST, PUT, PATCH and DELETE, usin
  - Clone the repo
  
  ```
-git clone https://github.com/PedroGironSV/json-placeholder.git
+git clone https://github.com/PedroGironSV/Json_Placeholder.git
 ```
 
  - Open the project on VS Code
