@@ -1,4 +1,4 @@
-**JSON Placeholder - APIs Automation Project**
+**JSON Placeholder - API Automation Project**
 
 API testing for the main HTTP requetests: GET, POST, PUT, PATCH and DELETE, using as automation stack the following technologies:
 
