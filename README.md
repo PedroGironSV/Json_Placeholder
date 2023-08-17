@@ -18,16 +18,12 @@ API testing for the main HTTP requetests: GET, POST, PUT, PATCH and DELETE, usin
  - Clone the repo
  
  ```
-git clone https://github.com/PedroGironSV/Automation_Portfolio.git
+git clone https://github.com/PedroGironSV/json-placeholder.git
 ```
 
  - Open the project on VS Code
  - Open New Terminal
- - Navigate to 'Pytest-Python' folder
- ```
-cd API_Automation/Pytest-Python
-```
-- Execute the tests with the command:
+ - Execute the tests with the command:
  ```
 npm test
 ```
